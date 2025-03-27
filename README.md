@@ -15,8 +15,8 @@ Instead, imagine a lucky fan's voice saying that same line, but "San Francisco" 
 
 Take it a step further - the fan's voice could say any custom hype phrase that the artist wants, inserted at any point in any song during the show. 
 
-### Why This Matters
-This proof-of-concept tool showcases the potential of utilizing voice AI to reimagine fan experiences and relationships between fans and artists. It highlights an innovative approach to fan engagement by making each performance interactive, unique, and unforgettable. 
+## Why This Matters
+This proof-of-concept tool showcases the potential of utilizing voice AI to transform fan experiences and deepen the connection between artists and their audience. It highlights an innovative approach to fan engagement by making each performance interactive, unique, and unforgettable. 
 
 The music industry is increasingly building products and experiences to serve the "superfan". What are superfans' wildest wishes that artists can make come true? One category of fan wishes is to be able to co-create with their favorite artists. Imagine hearing your voice layered creatively into your favorite artist's live set!
 
@@ -25,8 +25,8 @@ From the artist perspective, this tool opens up new possibilities for marketing 
 Ultimately, voice AI empowers us to explore the limitless magic of music and create unforgettable memories together.
 
 ## Tools & Technologies
-- **Programming Language:** Python (Simple script provided)
-- **APIs Used:** [ElevenLabs VoiceLab API](https://elevenlabs.io/docs/overview)
+- Programming Language: Python (Simple script provided)
+- APIs Used: [ElevenLabs VoiceLab API](https://elevenlabs.io/docs/overview)
 
 ## Repository Contents
 - `fanvoice_tool.py` - Python script to interact with ElevenLabs API and generate fan voice clips.
@@ -37,11 +37,11 @@ Ultimately, voice AI empowers us to explore the limitless magic of music and cre
 2. Upload a fan voice sample to ElevenLabs’ VoiceLab and get the `VOICE_ID`.  
 3. Run the `fanvoice_tool.py` script and input a desired phrase.  
 4. Listen to the generated audio file!  
-5. (Future Integration) Use **Google’s TextFX** to create creative text inputs for the tool.
+5. (Future Integration) Use Google’s TextFX to create creative text inputs for the tool.
 
 ## Future Vision
 This project is a work-in-progress, with several exciting potential improvements to explore:
 
-- Integrating **Google’s TextFX API** to generate creative text prompts
+- Integrating Google’s TextFX API to generate creative text prompts
 - Building a simple web application where fans submit recordings directly.
 - Developing a broader fan engagement platform where artists crowdsource text prompts from fans and remix them with ElevenLabs' audio technology.
