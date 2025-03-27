@@ -9,7 +9,7 @@ The **FanVoice Drop Tool** is a conceptual project aimed at enhancing fan engage
 3. Play these clips during live performances to create unforgettable moments for fans, while giving artists a fun, creative way to customize each show to their audience.
 
 ## Use Case
-Imagine a DJ like Dom Dolla performing his song "San Francisco" at a show. In the original recording of the song, there is a voice that says "San Francisco, where's your disco" right before the beat drops. 
+Imagine a DJ like Dom Dolla playing his song "San Francisco" at a show. In the original recording of the song, there is a voice that says "San Francisco, where's your disco" right before the beat drops. 
 
 Instead, imagine a lucky fan's voice saying that same line, but "San Francisco" is swapped with the city the show is at.
 
