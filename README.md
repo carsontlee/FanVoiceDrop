@@ -20,7 +20,7 @@ This proof-of-concept tool showcases the potential of utilizing voice AI to tran
 
 The music industry is increasingly building products and experiences to serve the "superfan". What are superfans' wildest wishes that artists can make come true? One category of fan wishes is to be able to co-create with their favorite artists. Imagine hearing your voice layered creatively into your favorite artist's live set!
 
-From the artist perspective, this tool opens up new possibilities for marketing and fan engagement. For example, artists can invite fans to submit voice recordings, with the chance to be featured as the lucky voice played during a show. Artists can also crowdsource creative text prompts from fans, further elevating this unique collaboration between the artist and fan. During a performance, voice AI unlocks unprecedented levels of recorded voice customization, creating moments of surprise and delight that fans crave.
+From the artist perspective, this tool opens up new possibilities for marketing and fan engagement. For example, artists can invite fans to submit voice recordings, with the chance to be featured as the lucky voice played during a show. Artists can also crowdsource creative text prompts from fans, further elevating this unique collaboration between the artist and fan. During a performance, voice AI unlocks unprecedented levels of voice customization, creating moments of surprise and delight that fans crave.
 
 Ultimately, voice AI empowers us to explore the limitless magic of music and create unforgettable memories together.
 
