@@ -68,7 +68,7 @@ Ultimately, voice AI empowers us to explore the limitless magic of music and cre
    - The generated audio clip will be saved automatically in the root of the project directory as an `.mp3` file.
 
 ## Future Vision
-This project is a work-in-progress, with several exciting potential improvements to explore:
+This project is a work-in-progress, with several potential improvements to explore:
 
 - Integrating Google’s TextFX API to generate creative text prompts
 - Building a simple web application where fans submit recordings directly.
