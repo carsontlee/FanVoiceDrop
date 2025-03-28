@@ -64,13 +64,7 @@ Ultimately, voice AI empowers us to explore the limitless magic of music and cre
      pip install -r requirements.txt
      ```
 
-3. **Install Dependencies**  
-   - Install the necessary packages by running:
-     ```bash
-     pip install -r requirements.txt
-     ```
-
-3. **Run the Script**  
+4. **Run the Script**  
    - Make sure your virtual environment is activated:
      ```bash
      source venv/bin/activate  # For MacOS/Linux
