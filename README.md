@@ -65,11 +65,6 @@ Ultimately, voice AI empowers us to explore the limitless magic of music and cre
      ```
 
 4. **Run the Script**  
-   - Make sure your virtual environment is activated:
-     ```bash
-     source venv/bin/activate  # For MacOS/Linux
-     .\venv\Scripts\activate    # For Windows
-     ```
    - Run the script with:
      ```bash
      python3 fanvoice_tool.py
