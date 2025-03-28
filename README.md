@@ -36,7 +36,7 @@ Ultimately, voice AI empowers us to explore the limitless magic of music and cre
 - .gitignore - File to exclude sensitive files (e.g., .env and venv/) from being uploaded to your GitHub repository.
 
 ## **How To Use**
-1. **Set Up Your API Key & Voice ID**  
+1. **Set Up Your ElevenLabs API Key & Voice ID**  
    - Create an `.env` file in the root of the project directory (same level as `fanvoice_tool.py`).
    - Add the following lines to your `.env` file:
      ```bash
