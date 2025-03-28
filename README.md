@@ -82,6 +82,6 @@ Ultimately, voice AI empowers us to explore the limitless magic of music and cre
 ## Future Vision
 This project is a work-in-progress, with several potential improvements to explore:
 
-- Integrating Google’s TextFX API to generate creative text prompts
+- Integrating Google’s TextFX API to generate creative text prompts.
 - Building a simple web application where fans submit recordings directly.
 - Developing a broader fan engagement platform where artists crowdsource text prompts from fans and remix them with ElevenLabs' audio technology.
