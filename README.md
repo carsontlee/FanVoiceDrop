@@ -41,7 +41,7 @@ Ultimately, voice AI empowers us to explore the limitless magic of music and cre
    - Add the following lines to your `.env` file:
      ```bash
      ELEVENLABS_API_KEY=your_api_key_here
-     VOICE_ID=your_voice_id_here
+     ELEVENLABS_VOICE_ID=your_voice_id_here
      ```
    - Replace `your_api_key_here` with your actual ElevenLabs API key.
    - Replace `your_voice_id_here` with the Voice ID from ElevenLabs' VoiceLab (from your uploaded fan voice sample).
