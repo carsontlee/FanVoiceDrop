@@ -65,7 +65,7 @@ Ultimately, voice AI empowers us to explore the limitless magic of music and cre
 
 4. **Generate Audio Clips**  
    - Enter the creative phrase you want the fan’s voice to say (e.g., **"San Francisco, Where's Your Disco"**).
-   - The generated audio clip will be saved automatically to the `FanVoice-Drop-Tool` folder as an `.mp3` file.
+   - The generated audio clip will be saved automatically in the root of the project directory as an `.mp3` file.
 
 ## Future Vision
 This project is a work-in-progress, with several exciting potential improvements to explore:
