@@ -80,3 +80,4 @@ This project is a work-in-progress, with several potential improvements to explo
 - Integrating Google’s TextFX to generate creative text prompts (Google TextFX is an AI experiment designed to help rappers, writers, and wordsmiths expand their process, created in collaboration with Lupe Fiasco).
 - Building a simple web application where fans submit recordings directly.
 - Developing a broader fan engagement platform where artists crowdsource text prompts from fans and remix them with ElevenLabs' audio technology.
+- Data collection on fan submissions and analytics dashboards for artists to track fan engagement over time.
