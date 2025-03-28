@@ -59,7 +59,7 @@ Ultimately, voice AI empowers us to explore the limitless magic of music and cre
      ```
 
 3. **Install Dependencies:**  
-   - While your virtual environment is active, install the necessary packages by running:
+   - Install the necessary packages by running:
      ```bash
      pip install -r requirements.txt
      ```
