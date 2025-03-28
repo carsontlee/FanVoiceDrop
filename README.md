@@ -46,7 +46,25 @@ Ultimately, voice AI empowers us to explore the limitless magic of music and cre
    - Replace `your_api_key_here` with your actual ElevenLabs API key.
    - Replace `your_voice_id_here` with the Voice ID from ElevenLabs' VoiceLab (from your uploaded fan voice sample).
 
-2. **Install Dependencies**  
+2. **Activate Your Virtual Environment:**  
+   - Make sure you have a virtual environment set up. If not, create one using:
+     ```bash
+     python3 -m venv venv      # For Mac/Linux
+     python -m venv venv       # For Windows
+     ```
+   - Activate the virtual environment:
+     ```bash
+     source venv/bin/activate    # For Mac/Linux
+     .\venv\Scripts\activate      # For Windows
+     ```
+
+3. **Install Dependencies:**  
+   - While your virtual environment is active, install the necessary packages by running:
+     ```bash
+     pip install -r requirements.txt
+     ```
+
+3. **Install Dependencies**  
    - Install the necessary packages by running:
      ```bash
      pip install -r requirements.txt
