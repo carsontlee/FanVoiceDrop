@@ -30,7 +30,7 @@ Ultimately, voice AI empowers us to explore the limitless magic of music and cre
 
 ## Repository Contents
 - fanvoice_tool.py - Python script to interact with the ElevenLabs API and generate fan voice clips.
-- Sample_Audio_Files - Folder containing generated audio clips created by the tool for demonstration purposes.
+- sample_audio_files - Folder containing generated audio clips created by the tool for demonstration purposes.
 - .env - File containing your ElevenLabs API key and VOICE_ID (not included in the repo for security reasons).
 - requirements.txt - File listing the necessary packages to run the script (requests and python-dotenv).
 - .gitignore - File to exclude sensitive files (e.g., .env and venv/) from being uploaded to your GitHub repository.
