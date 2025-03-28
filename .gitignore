@@ -1,0 +1,12 @@
+# Ignore the virtual environment folder
+venv/
+
+# Ignore the .env file (containing your sensitive API key)
+.env
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore any temporary files or folders created by your IDE (Visual Studio Code)
+.vscode/
